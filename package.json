@@ -1,3 +1,4 @@
+
 {
   "name": "test-app",
   "version": "0.1.0",
@@ -42,9 +43,11 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.50.0"
-  }
-  "repository": {
-    "url": "https://github.com/AkiraWide/test-repository"
+    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/github": "^11.0.1",
+    "@semantic-release/release-notes-generator": "^14.0.1",
+    "eslint": "^8.50.0",
+    "gh-pages": "^6.2.0",
+    "semantic-release": "^24.2.0"
   }
 }
