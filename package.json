@@ -44,7 +44,6 @@
   "devDependencies": {
     "eslint": "^8.50.0"
   }
-  }
   "repository": {
     "url": "https://github.com/AkiraWide/test-repository"
   }
