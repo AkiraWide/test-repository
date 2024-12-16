@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AkiraWide.github.io/test-repository",
+  "homepage": "https://AkiraWide.github.io/test-repository/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -43,5 +43,9 @@
   },
   "devDependencies": {
     "eslint": "^8.50.0"
+  }
+  }
+  "repository": {
+    "url": "https://github.com/AkiraWide/test-repository"
   }
 }
